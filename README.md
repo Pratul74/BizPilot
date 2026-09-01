@@ -1,2 +1,2 @@
 ## Architecture:-
-! [Project Architecture] (docs/Architecture.png)
+![Project Architecture](docs/Architecture.png)
