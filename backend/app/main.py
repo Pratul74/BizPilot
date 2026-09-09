@@ -12,6 +12,6 @@ async def telegram_webhook(update: dict):
     print(update["message"]["text"])
     await telgram_service.send_message(
         chat_id=chat_id,
-        text="Happy to hear from your :)"
+        text="Good to hear from you :)"
     )
     return {"ok": True}
